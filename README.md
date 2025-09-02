@@ -2,8 +2,6 @@
 
 Website for Wander Watt Mobile RV Services built with Vue 3, TypeScript, and Tailwind CSS. Includes responsive design, accessibility, SEO features, and a serverless contact form.
 
-![Wander Watt Logo](./src/assets/logo.png)
-
 ## Quick Start
 
 ```bash
