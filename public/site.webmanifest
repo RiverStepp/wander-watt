@@ -1,0 +1,33 @@
+{
+  "name": "Wander Watt Mobile RV Services",
+  "short_name": "Wander Watt",
+  "description": "Mobile RV Repair, Solar & Roof Services - We Bring the Power to You",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d4af37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "utilities"],
+  "lang": "en-US",
+  "scope": "/",
+  "related_applications": [],
+  "prefer_related_applications": false
+}
